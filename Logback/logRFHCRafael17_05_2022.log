@@ -1,0 +1,1405 @@
+369  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+377  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+378  [main] WARN  com.nttdata.main.App - price multiplication
+378  [main] INFO  com.nttdata.main.App - Reward is : 250
+378  [main] INFO  com.nttdata.main.App - winning number check
+378  [main] WARN  com.nttdata.main.App - the numbers do not match
+378  [main] WARN  com.nttdata.main.App - Reward is 250
+379  [main] INFO  com.nttdata.main.App - End of execution
+379  [main] INFO  com.nttdata.main.App - Start of execution
+379  [main] INFO  com.nttdata.main.App - thrown ball
+380  [main] WARN  com.nttdata.main.App - assigned numbers26,40
+380  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+380  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+380  [main] WARN  com.nttdata.main.App - price multiplication
+380  [main] INFO  com.nttdata.main.App - Reward is : 150
+380  [main] INFO  com.nttdata.main.App - winning number check
+380  [main] WARN  com.nttdata.main.App - the numbers do not match
+380  [main] WARN  com.nttdata.main.App - Reward is 150
+380  [main] INFO  com.nttdata.main.App - End of execution
+380  [main] INFO  com.nttdata.main.App - Start of execution
+381  [main] INFO  com.nttdata.main.App - thrown ball
+381  [main] WARN  com.nttdata.main.App - assigned numbers27,40
+381  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+381  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+381  [main] WARN  com.nttdata.main.App - price multiplication
+381  [main] INFO  com.nttdata.main.App - Reward is : 150
+381  [main] INFO  com.nttdata.main.App - winning number check
+381  [main] WARN  com.nttdata.main.App - the numbers do not match
+381  [main] WARN  com.nttdata.main.App - Reward is 150
+381  [main] INFO  com.nttdata.main.App - End of execution
+381  [main] INFO  com.nttdata.main.App - Start of execution
+381  [main] INFO  com.nttdata.main.App - thrown ball
+381  [main] WARN  com.nttdata.main.App - assigned numbers33,2
+381  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+381  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+381  [main] WARN  com.nttdata.main.App - price multiplication
+381  [main] INFO  com.nttdata.main.App - Reward is : 200
+381  [main] INFO  com.nttdata.main.App - winning number check
+381  [main] WARN  com.nttdata.main.App - the numbers do not match
+381  [main] WARN  com.nttdata.main.App - Reward is 200
+381  [main] INFO  com.nttdata.main.App - End of execution
+381  [main] INFO  com.nttdata.main.App - Start of execution
+381  [main] INFO  com.nttdata.main.App - thrown ball
+381  [main] WARN  com.nttdata.main.App - assigned numbers38,23
+381  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+381  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+381  [main] WARN  com.nttdata.main.App - price multiplication
+381  [main] INFO  com.nttdata.main.App - Reward is : 200
+381  [main] INFO  com.nttdata.main.App - winning number check
+381  [main] WARN  com.nttdata.main.App - the numbers do not match
+381  [main] WARN  com.nttdata.main.App - Reward is 200
+381  [main] INFO  com.nttdata.main.App - End of execution
+381  [main] INFO  com.nttdata.main.App - Start of execution
+382  [main] INFO  com.nttdata.main.App - thrown ball
+382  [main] WARN  com.nttdata.main.App - assigned numbers4,25
+382  [main] WARN  com.nttdata.main.App - priceMultiplier = 1
+382  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+382  [main] WARN  com.nttdata.main.App - price multiplication
+382  [main] INFO  com.nttdata.main.App - Reward is : 50
+382  [main] INFO  com.nttdata.main.App - winning number check
+382  [main] WARN  com.nttdata.main.App - the numbers do not match
+382  [main] WARN  com.nttdata.main.App - Reward is 50
+382  [main] INFO  com.nttdata.main.App - End of execution
+382  [main] INFO  com.nttdata.main.App - Start of execution
+382  [main] INFO  com.nttdata.main.App - thrown ball
+382  [main] WARN  com.nttdata.main.App - assigned numbers49,46
+382  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+382  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+382  [main] WARN  com.nttdata.main.App - price multiplication
+382  [main] INFO  com.nttdata.main.App - Reward is : 250
+382  [main] INFO  com.nttdata.main.App - winning number check
+382  [main] WARN  com.nttdata.main.App - the numbers do not match
+382  [main] WARN  com.nttdata.main.App - Reward is 250
+382  [main] INFO  com.nttdata.main.App - End of execution
+382  [main] INFO  com.nttdata.main.App - Start of execution
+382  [main] INFO  com.nttdata.main.App - thrown ball
+382  [main] WARN  com.nttdata.main.App - assigned numbers20,21
+382  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+382  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+382  [main] WARN  com.nttdata.main.App - price multiplication
+382  [main] INFO  com.nttdata.main.App - Reward is : 150
+382  [main] INFO  com.nttdata.main.App - winning number check
+382  [main] WARN  com.nttdata.main.App - the numbers do not match
+382  [main] WARN  com.nttdata.main.App - Reward is 150
+382  [main] INFO  com.nttdata.main.App - End of execution
+382  [main] INFO  com.nttdata.main.App - Start of execution
+382  [main] INFO  com.nttdata.main.App - thrown ball
+382  [main] WARN  com.nttdata.main.App - assigned numbers9,8
+382  [main] WARN  com.nttdata.main.App - priceMultiplier = 1
+382  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+382  [main] WARN  com.nttdata.main.App - price multiplication
+382  [main] INFO  com.nttdata.main.App - Reward is : 50
+382  [main] INFO  com.nttdata.main.App - winning number check
+382  [main] WARN  com.nttdata.main.App - the numbers do not match
+382  [main] WARN  com.nttdata.main.App - Reward is 50
+383  [main] INFO  com.nttdata.main.App - End of execution
+383  [main] INFO  com.nttdata.main.App - Start of execution
+383  [main] INFO  com.nttdata.main.App - thrown ball
+383  [main] WARN  com.nttdata.main.App - assigned numbers15,2
+383  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+383  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+383  [main] WARN  com.nttdata.main.App - price multiplication
+383  [main] INFO  com.nttdata.main.App - Reward is : 100
+383  [main] INFO  com.nttdata.main.App - winning number check
+383  [main] WARN  com.nttdata.main.App - the numbers do not match
+383  [main] WARN  com.nttdata.main.App - Reward is 100
+383  [main] INFO  com.nttdata.main.App - End of execution
+383  [main] INFO  com.nttdata.main.App - Start of execution
+383  [main] INFO  com.nttdata.main.App - thrown ball
+383  [main] WARN  com.nttdata.main.App - assigned numbers37,47
+383  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+383  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+383  [main] WARN  com.nttdata.main.App - price multiplication
+383  [main] INFO  com.nttdata.main.App - Reward is : 200
+383  [main] INFO  com.nttdata.main.App - winning number check
+383  [main] WARN  com.nttdata.main.App - the numbers do not match
+383  [main] WARN  com.nttdata.main.App - Reward is 200
+383  [main] INFO  com.nttdata.main.App - End of execution
+383  [main] INFO  com.nttdata.main.App - Start of execution
+383  [main] INFO  com.nttdata.main.App - thrown ball
+383  [main] WARN  com.nttdata.main.App - assigned numbers48,1
+384  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+384  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+384  [main] WARN  com.nttdata.main.App - price multiplication
+384  [main] INFO  com.nttdata.main.App - Reward is : 250
+384  [main] INFO  com.nttdata.main.App - winning number check
+384  [main] WARN  com.nttdata.main.App - the numbers do not match
+384  [main] WARN  com.nttdata.main.App - Reward is 250
+384  [main] INFO  com.nttdata.main.App - End of execution
+384  [main] INFO  com.nttdata.main.App - Start of execution
+384  [main] INFO  com.nttdata.main.App - thrown ball
+384  [main] WARN  com.nttdata.main.App - assigned numbers1,15
+384  [main] WARN  com.nttdata.main.App - priceMultiplier = 1
+384  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+384  [main] WARN  com.nttdata.main.App - price multiplication
+384  [main] INFO  com.nttdata.main.App - Reward is : 50
+384  [main] INFO  com.nttdata.main.App - winning number check
+384  [main] WARN  com.nttdata.main.App - the numbers do not match
+384  [main] WARN  com.nttdata.main.App - Reward is 50
+384  [main] INFO  com.nttdata.main.App - End of execution
+384  [main] INFO  com.nttdata.main.App - Start of execution
+384  [main] INFO  com.nttdata.main.App - thrown ball
+384  [main] WARN  com.nttdata.main.App - assigned numbers50,43
+384  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+385  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+385  [main] WARN  com.nttdata.main.App - price multiplication
+385  [main] INFO  com.nttdata.main.App - Reward is : 250
+385  [main] INFO  com.nttdata.main.App - winning number check
+385  [main] WARN  com.nttdata.main.App - the numbers do not match
+385  [main] WARN  com.nttdata.main.App - Reward is 250
+385  [main] INFO  com.nttdata.main.App - End of execution
+385  [main] INFO  com.nttdata.main.App - Start of execution
+385  [main] INFO  com.nttdata.main.App - thrown ball
+385  [main] WARN  com.nttdata.main.App - assigned numbers14,37
+385  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+385  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+385  [main] WARN  com.nttdata.main.App - price multiplication
+385  [main] INFO  com.nttdata.main.App - Reward is : 100
+385  [main] INFO  com.nttdata.main.App - winning number check
+385  [main] WARN  com.nttdata.main.App - the numbers do not match
+385  [main] WARN  com.nttdata.main.App - Reward is 100
+385  [main] INFO  com.nttdata.main.App - End of execution
+385  [main] INFO  com.nttdata.main.App - Start of execution
+385  [main] INFO  com.nttdata.main.App - thrown ball
+385  [main] WARN  com.nttdata.main.App - assigned numbers27,39
+385  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+385  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+385  [main] WARN  com.nttdata.main.App - price multiplication
+385  [main] INFO  com.nttdata.main.App - Reward is : 150
+385  [main] INFO  com.nttdata.main.App - winning number check
+385  [main] WARN  com.nttdata.main.App - the numbers do not match
+385  [main] WARN  com.nttdata.main.App - Reward is 150
+385  [main] INFO  com.nttdata.main.App - End of execution
+385  [main] INFO  com.nttdata.main.App - Start of execution
+385  [main] INFO  com.nttdata.main.App - thrown ball
+385  [main] WARN  com.nttdata.main.App - assigned numbers5,31
+386  [main] WARN  com.nttdata.main.App - priceMultiplier = 1
+386  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+386  [main] WARN  com.nttdata.main.App - price multiplication
+386  [main] INFO  com.nttdata.main.App - Reward is : 50
+386  [main] INFO  com.nttdata.main.App - winning number check
+386  [main] WARN  com.nttdata.main.App - the numbers do not match
+386  [main] WARN  com.nttdata.main.App - Reward is 50
+386  [main] INFO  com.nttdata.main.App - End of execution
+386  [main] INFO  com.nttdata.main.App - Start of execution
+386  [main] INFO  com.nttdata.main.App - thrown ball
+386  [main] WARN  com.nttdata.main.App - assigned numbers41,23
+386  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+386  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+386  [main] WARN  com.nttdata.main.App - price multiplication
+386  [main] INFO  com.nttdata.main.App - Reward is : 250
+386  [main] INFO  com.nttdata.main.App - winning number check
+386  [main] WARN  com.nttdata.main.App - the numbers do not match
+386  [main] WARN  com.nttdata.main.App - Reward is 250
+386  [main] INFO  com.nttdata.main.App - End of execution
+386  [main] INFO  com.nttdata.main.App - Start of execution
+386  [main] INFO  com.nttdata.main.App - thrown ball
+386  [main] WARN  com.nttdata.main.App - assigned numbers38,3
+386  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+386  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+386  [main] WARN  com.nttdata.main.App - price multiplication
+386  [main] INFO  com.nttdata.main.App - Reward is : 200
+386  [main] INFO  com.nttdata.main.App - winning number check
+386  [main] WARN  com.nttdata.main.App - the numbers do not match
+386  [main] WARN  com.nttdata.main.App - Reward is 200
+386  [main] INFO  com.nttdata.main.App - End of execution
+386  [main] INFO  com.nttdata.main.App - Start of execution
+386  [main] INFO  com.nttdata.main.App - thrown ball
+386  [main] WARN  com.nttdata.main.App - assigned numbers34,1
+386  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+386  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+386  [main] WARN  com.nttdata.main.App - price multiplication
+386  [main] INFO  com.nttdata.main.App - Reward is : 200
+386  [main] INFO  com.nttdata.main.App - winning number check
+386  [main] WARN  com.nttdata.main.App - the numbers do not match
+386  [main] WARN  com.nttdata.main.App - Reward is 200
+386  [main] INFO  com.nttdata.main.App - End of execution
+386  [main] INFO  com.nttdata.main.App - Start of execution
+386  [main] INFO  com.nttdata.main.App - thrown ball
+386  [main] WARN  com.nttdata.main.App - assigned numbers45,12
+386  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+386  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+386  [main] WARN  com.nttdata.main.App - price multiplication
+386  [main] INFO  com.nttdata.main.App - Reward is : 250
+386  [main] INFO  com.nttdata.main.App - winning number check
+386  [main] WARN  com.nttdata.main.App - the numbers do not match
+386  [main] WARN  com.nttdata.main.App - Reward is 250
+386  [main] INFO  com.nttdata.main.App - End of execution
+386  [main] INFO  com.nttdata.main.App - Start of execution
+386  [main] INFO  com.nttdata.main.App - thrown ball
+386  [main] WARN  com.nttdata.main.App - assigned numbers44,30
+386  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+386  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+386  [main] WARN  com.nttdata.main.App - price multiplication
+386  [main] INFO  com.nttdata.main.App - Reward is : 250
+386  [main] INFO  com.nttdata.main.App - winning number check
+386  [main] WARN  com.nttdata.main.App - the numbers do not match
+386  [main] WARN  com.nttdata.main.App - Reward is 250
+386  [main] INFO  com.nttdata.main.App - End of execution
+386  [main] INFO  com.nttdata.main.App - Start of execution
+386  [main] INFO  com.nttdata.main.App - thrown ball
+386  [main] WARN  com.nttdata.main.App - assigned numbers38,34
+386  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+386  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+386  [main] WARN  com.nttdata.main.App - price multiplication
+386  [main] INFO  com.nttdata.main.App - Reward is : 200
+386  [main] INFO  com.nttdata.main.App - winning number check
+387  [main] WARN  com.nttdata.main.App - the numbers do not match
+387  [main] WARN  com.nttdata.main.App - Reward is 200
+387  [main] INFO  com.nttdata.main.App - End of execution
+387  [main] INFO  com.nttdata.main.App - Start of execution
+387  [main] INFO  com.nttdata.main.App - thrown ball
+387  [main] WARN  com.nttdata.main.App - assigned numbers38,12
+387  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+387  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+387  [main] WARN  com.nttdata.main.App - price multiplication
+387  [main] INFO  com.nttdata.main.App - Reward is : 200
+387  [main] INFO  com.nttdata.main.App - winning number check
+387  [main] WARN  com.nttdata.main.App - the numbers do not match
+387  [main] WARN  com.nttdata.main.App - Reward is 200
+387  [main] INFO  com.nttdata.main.App - End of execution
+387  [main] INFO  com.nttdata.main.App - Start of execution
+387  [main] INFO  com.nttdata.main.App - thrown ball
+387  [main] WARN  com.nttdata.main.App - assigned numbers1,30
+387  [main] WARN  com.nttdata.main.App - priceMultiplier = 1
+387  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+387  [main] WARN  com.nttdata.main.App - price multiplication
+387  [main] INFO  com.nttdata.main.App - Reward is : 50
+387  [main] INFO  com.nttdata.main.App - winning number check
+387  [main] WARN  com.nttdata.main.App - the numbers do not match
+387  [main] WARN  com.nttdata.main.App - Reward is 50
+387  [main] INFO  com.nttdata.main.App - End of execution
+387  [main] INFO  com.nttdata.main.App - Start of execution
+387  [main] INFO  com.nttdata.main.App - thrown ball
+387  [main] WARN  com.nttdata.main.App - assigned numbers6,21
+387  [main] WARN  com.nttdata.main.App - priceMultiplier = 1
+387  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+387  [main] WARN  com.nttdata.main.App - price multiplication
+387  [main] INFO  com.nttdata.main.App - Reward is : 50
+387  [main] INFO  com.nttdata.main.App - winning number check
+387  [main] WARN  com.nttdata.main.App - the numbers do not match
+387  [main] WARN  com.nttdata.main.App - Reward is 50
+387  [main] INFO  com.nttdata.main.App - End of execution
+387  [main] INFO  com.nttdata.main.App - Start of execution
+387  [main] INFO  com.nttdata.main.App - thrown ball
+387  [main] WARN  com.nttdata.main.App - assigned numbers26,26
+387  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+387  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+387  [main] WARN  com.nttdata.main.App - price multiplication
+387  [main] INFO  com.nttdata.main.App - Reward is : 150
+387  [main] INFO  com.nttdata.main.App - winning number check
+387  [main] WARN  com.nttdata.main.App - the numbers match
+387  [main] WARN  com.nttdata.main.App - Reward is 300
+387  [main] INFO  com.nttdata.main.App - End of execution
+387  [main] INFO  com.nttdata.main.App - Start of execution
+387  [main] INFO  com.nttdata.main.App - thrown ball
+387  [main] WARN  com.nttdata.main.App - assigned numbers21,22
+387  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+387  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+387  [main] WARN  com.nttdata.main.App - price multiplication
+387  [main] INFO  com.nttdata.main.App - Reward is : 150
+387  [main] INFO  com.nttdata.main.App - winning number check
+387  [main] WARN  com.nttdata.main.App - the numbers do not match
+387  [main] WARN  com.nttdata.main.App - Reward is 150
+387  [main] INFO  com.nttdata.main.App - End of execution
+387  [main] INFO  com.nttdata.main.App - Start of execution
+387  [main] INFO  com.nttdata.main.App - thrown ball
+387  [main] WARN  com.nttdata.main.App - assigned numbers45,19
+388  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+388  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+388  [main] WARN  com.nttdata.main.App - price multiplication
+388  [main] INFO  com.nttdata.main.App - Reward is : 250
+388  [main] INFO  com.nttdata.main.App - winning number check
+388  [main] WARN  com.nttdata.main.App - the numbers do not match
+388  [main] WARN  com.nttdata.main.App - Reward is 250
+388  [main] INFO  com.nttdata.main.App - End of execution
+388  [main] INFO  com.nttdata.main.App - Start of execution
+388  [main] INFO  com.nttdata.main.App - thrown ball
+388  [main] WARN  com.nttdata.main.App - assigned numbers49,7
+388  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+388  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+388  [main] WARN  com.nttdata.main.App - price multiplication
+388  [main] INFO  com.nttdata.main.App - Reward is : 250
+388  [main] INFO  com.nttdata.main.App - winning number check
+388  [main] WARN  com.nttdata.main.App - the numbers do not match
+388  [main] WARN  com.nttdata.main.App - Reward is 250
+388  [main] INFO  com.nttdata.main.App - End of execution
+388  [main] INFO  com.nttdata.main.App - Start of execution
+388  [main] INFO  com.nttdata.main.App - thrown ball
+388  [main] WARN  com.nttdata.main.App - assigned numbers43,3
+388  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+388  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+388  [main] WARN  com.nttdata.main.App - price multiplication
+388  [main] INFO  com.nttdata.main.App - Reward is : 250
+388  [main] INFO  com.nttdata.main.App - winning number check
+388  [main] WARN  com.nttdata.main.App - the numbers do not match
+388  [main] WARN  com.nttdata.main.App - Reward is 250
+388  [main] INFO  com.nttdata.main.App - End of execution
+388  [main] INFO  com.nttdata.main.App - Start of execution
+388  [main] INFO  com.nttdata.main.App - thrown ball
+388  [main] WARN  com.nttdata.main.App - assigned numbers22,34
+388  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+388  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+388  [main] WARN  com.nttdata.main.App - price multiplication
+388  [main] INFO  com.nttdata.main.App - Reward is : 150
+388  [main] INFO  com.nttdata.main.App - winning number check
+389  [main] WARN  com.nttdata.main.App - the numbers do not match
+389  [main] WARN  com.nttdata.main.App - Reward is 150
+389  [main] INFO  com.nttdata.main.App - End of execution
+389  [main] INFO  com.nttdata.main.App - Start of execution
+389  [main] INFO  com.nttdata.main.App - thrown ball
+389  [main] WARN  com.nttdata.main.App - assigned numbers13,17
+389  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+389  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+389  [main] WARN  com.nttdata.main.App - price multiplication
+389  [main] INFO  com.nttdata.main.App - Reward is : 100
+389  [main] INFO  com.nttdata.main.App - winning number check
+389  [main] WARN  com.nttdata.main.App - the numbers do not match
+389  [main] WARN  com.nttdata.main.App - Reward is 100
+389  [main] INFO  com.nttdata.main.App - End of execution
+389  [main] INFO  com.nttdata.main.App - Start of execution
+389  [main] INFO  com.nttdata.main.App - thrown ball
+389  [main] WARN  com.nttdata.main.App - assigned numbers38,7
+389  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+389  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+389  [main] WARN  com.nttdata.main.App - price multiplication
+389  [main] INFO  com.nttdata.main.App - Reward is : 200
+389  [main] INFO  com.nttdata.main.App - winning number check
+389  [main] WARN  com.nttdata.main.App - the numbers do not match
+389  [main] WARN  com.nttdata.main.App - Reward is 200
+389  [main] INFO  com.nttdata.main.App - End of execution
+389  [main] INFO  com.nttdata.main.App - Start of execution
+389  [main] INFO  com.nttdata.main.App - thrown ball
+389  [main] WARN  com.nttdata.main.App - assigned numbers3,14
+389  [main] WARN  com.nttdata.main.App - priceMultiplier = 1
+389  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+389  [main] WARN  com.nttdata.main.App - price multiplication
+389  [main] INFO  com.nttdata.main.App - Reward is : 50
+389  [main] INFO  com.nttdata.main.App - winning number check
+389  [main] WARN  com.nttdata.main.App - the numbers do not match
+389  [main] WARN  com.nttdata.main.App - Reward is 50
+389  [main] INFO  com.nttdata.main.App - End of execution
+389  [main] INFO  com.nttdata.main.App - Start of execution
+389  [main] INFO  com.nttdata.main.App - thrown ball
+389  [main] WARN  com.nttdata.main.App - assigned numbers7,25
+389  [main] WARN  com.nttdata.main.App - priceMultiplier = 1
+389  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+389  [main] WARN  com.nttdata.main.App - price multiplication
+389  [main] INFO  com.nttdata.main.App - Reward is : 50
+389  [main] INFO  com.nttdata.main.App - winning number check
+389  [main] WARN  com.nttdata.main.App - the numbers do not match
+389  [main] WARN  com.nttdata.main.App - Reward is 50
+389  [main] INFO  com.nttdata.main.App - End of execution
+389  [main] INFO  com.nttdata.main.App - Start of execution
+389  [main] INFO  com.nttdata.main.App - thrown ball
+389  [main] WARN  com.nttdata.main.App - assigned numbers40,44
+389  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+389  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+389  [main] WARN  com.nttdata.main.App - price multiplication
+389  [main] INFO  com.nttdata.main.App - Reward is : 250
+389  [main] INFO  com.nttdata.main.App - winning number check
+389  [main] WARN  com.nttdata.main.App - the numbers do not match
+389  [main] WARN  com.nttdata.main.App - Reward is 250
+389  [main] INFO  com.nttdata.main.App - End of execution
+389  [main] INFO  com.nttdata.main.App - Start of execution
+389  [main] INFO  com.nttdata.main.App - thrown ball
+389  [main] WARN  com.nttdata.main.App - assigned numbers43,9
+389  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+389  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+389  [main] WARN  com.nttdata.main.App - price multiplication
+389  [main] INFO  com.nttdata.main.App - Reward is : 250
+389  [main] INFO  com.nttdata.main.App - winning number check
+389  [main] WARN  com.nttdata.main.App - the numbers do not match
+389  [main] WARN  com.nttdata.main.App - Reward is 250
+389  [main] INFO  com.nttdata.main.App - End of execution
+389  [main] INFO  com.nttdata.main.App - Start of execution
+389  [main] INFO  com.nttdata.main.App - thrown ball
+389  [main] WARN  com.nttdata.main.App - assigned numbers22,42
+389  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+389  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+389  [main] WARN  com.nttdata.main.App - price multiplication
+389  [main] INFO  com.nttdata.main.App - Reward is : 150
+389  [main] INFO  com.nttdata.main.App - winning number check
+389  [main] WARN  com.nttdata.main.App - the numbers do not match
+389  [main] WARN  com.nttdata.main.App - Reward is 150
+390  [main] INFO  com.nttdata.main.App - End of execution
+390  [main] INFO  com.nttdata.main.App - Start of execution
+390  [main] INFO  com.nttdata.main.App - thrown ball
+390  [main] WARN  com.nttdata.main.App - assigned numbers35,20
+390  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+390  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+390  [main] WARN  com.nttdata.main.App - price multiplication
+390  [main] INFO  com.nttdata.main.App - Reward is : 200
+390  [main] INFO  com.nttdata.main.App - winning number check
+390  [main] WARN  com.nttdata.main.App - the numbers do not match
+390  [main] WARN  com.nttdata.main.App - Reward is 200
+390  [main] INFO  com.nttdata.main.App - End of execution
+390  [main] INFO  com.nttdata.main.App - Start of execution
+390  [main] INFO  com.nttdata.main.App - thrown ball
+391  [main] WARN  com.nttdata.main.App - assigned numbers17,13
+391  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+391  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+391  [main] WARN  com.nttdata.main.App - price multiplication
+391  [main] INFO  com.nttdata.main.App - Reward is : 100
+391  [main] INFO  com.nttdata.main.App - winning number check
+391  [main] WARN  com.nttdata.main.App - the numbers do not match
+391  [main] WARN  com.nttdata.main.App - Reward is 100
+391  [main] INFO  com.nttdata.main.App - End of execution
+391  [main] INFO  com.nttdata.main.App - Start of execution
+391  [main] INFO  com.nttdata.main.App - thrown ball
+391  [main] WARN  com.nttdata.main.App - assigned numbers20,38
+391  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+391  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+391  [main] WARN  com.nttdata.main.App - price multiplication
+391  [main] INFO  com.nttdata.main.App - Reward is : 150
+391  [main] INFO  com.nttdata.main.App - winning number check
+391  [main] WARN  com.nttdata.main.App - the numbers do not match
+393  [main] WARN  com.nttdata.main.App - Reward is 150
+393  [main] INFO  com.nttdata.main.App - End of execution
+393  [main] INFO  com.nttdata.main.App - Start of execution
+393  [main] INFO  com.nttdata.main.App - thrown ball
+393  [main] WARN  com.nttdata.main.App - assigned numbers21,46
+394  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+394  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+394  [main] WARN  com.nttdata.main.App - price multiplication
+394  [main] INFO  com.nttdata.main.App - Reward is : 150
+394  [main] INFO  com.nttdata.main.App - winning number check
+394  [main] WARN  com.nttdata.main.App - the numbers do not match
+394  [main] WARN  com.nttdata.main.App - Reward is 150
+394  [main] INFO  com.nttdata.main.App - End of execution
+394  [main] INFO  com.nttdata.main.App - Start of execution
+394  [main] INFO  com.nttdata.main.App - thrown ball
+394  [main] WARN  com.nttdata.main.App - assigned numbers48,5
+394  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+394  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+394  [main] WARN  com.nttdata.main.App - price multiplication
+394  [main] INFO  com.nttdata.main.App - Reward is : 250
+394  [main] INFO  com.nttdata.main.App - winning number check
+394  [main] WARN  com.nttdata.main.App - the numbers do not match
+394  [main] WARN  com.nttdata.main.App - Reward is 250
+394  [main] INFO  com.nttdata.main.App - End of execution
+394  [main] INFO  com.nttdata.main.App - Start of execution
+394  [main] INFO  com.nttdata.main.App - thrown ball
+394  [main] WARN  com.nttdata.main.App - assigned numbers34,44
+394  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+394  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+394  [main] WARN  com.nttdata.main.App - price multiplication
+394  [main] INFO  com.nttdata.main.App - Reward is : 200
+394  [main] INFO  com.nttdata.main.App - winning number check
+394  [main] WARN  com.nttdata.main.App - the numbers do not match
+394  [main] WARN  com.nttdata.main.App - Reward is 200
+394  [main] INFO  com.nttdata.main.App - End of execution
+394  [main] INFO  com.nttdata.main.App - Start of execution
+394  [main] INFO  com.nttdata.main.App - thrown ball
+394  [main] WARN  com.nttdata.main.App - assigned numbers27,39
+394  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+394  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+394  [main] WARN  com.nttdata.main.App - price multiplication
+394  [main] INFO  com.nttdata.main.App - Reward is : 150
+394  [main] INFO  com.nttdata.main.App - winning number check
+394  [main] WARN  com.nttdata.main.App - the numbers do not match
+394  [main] WARN  com.nttdata.main.App - Reward is 150
+394  [main] INFO  com.nttdata.main.App - End of execution
+394  [main] INFO  com.nttdata.main.App - Start of execution
+394  [main] INFO  com.nttdata.main.App - thrown ball
+394  [main] WARN  com.nttdata.main.App - assigned numbers40,8
+394  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+394  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+394  [main] WARN  com.nttdata.main.App - price multiplication
+394  [main] INFO  com.nttdata.main.App - Reward is : 250
+394  [main] INFO  com.nttdata.main.App - winning number check
+395  [main] WARN  com.nttdata.main.App - the numbers do not match
+395  [main] WARN  com.nttdata.main.App - Reward is 250
+395  [main] INFO  com.nttdata.main.App - End of execution
+395  [main] INFO  com.nttdata.main.App - Start of execution
+395  [main] INFO  com.nttdata.main.App - thrown ball
+395  [main] WARN  com.nttdata.main.App - assigned numbers4,5
+395  [main] WARN  com.nttdata.main.App - priceMultiplier = 1
+395  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+395  [main] WARN  com.nttdata.main.App - price multiplication
+395  [main] INFO  com.nttdata.main.App - Reward is : 50
+395  [main] INFO  com.nttdata.main.App - winning number check
+395  [main] WARN  com.nttdata.main.App - the numbers do not match
+395  [main] WARN  com.nttdata.main.App - Reward is 50
+395  [main] INFO  com.nttdata.main.App - End of execution
+395  [main] INFO  com.nttdata.main.App - Start of execution
+395  [main] INFO  com.nttdata.main.App - thrown ball
+395  [main] WARN  com.nttdata.main.App - assigned numbers21,24
+395  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+395  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+395  [main] WARN  com.nttdata.main.App - price multiplication
+395  [main] INFO  com.nttdata.main.App - Reward is : 150
+395  [main] INFO  com.nttdata.main.App - winning number check
+395  [main] WARN  com.nttdata.main.App - the numbers do not match
+395  [main] WARN  com.nttdata.main.App - Reward is 150
+395  [main] INFO  com.nttdata.main.App - End of execution
+395  [main] INFO  com.nttdata.main.App - Start of execution
+395  [main] INFO  com.nttdata.main.App - thrown ball
+395  [main] WARN  com.nttdata.main.App - assigned numbers40,19
+395  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+395  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+395  [main] WARN  com.nttdata.main.App - price multiplication
+395  [main] INFO  com.nttdata.main.App - Reward is : 250
+395  [main] INFO  com.nttdata.main.App - winning number check
+395  [main] WARN  com.nttdata.main.App - the numbers do not match
+395  [main] WARN  com.nttdata.main.App - Reward is 250
+395  [main] INFO  com.nttdata.main.App - End of execution
+395  [main] INFO  com.nttdata.main.App - Start of execution
+395  [main] INFO  com.nttdata.main.App - thrown ball
+395  [main] WARN  com.nttdata.main.App - assigned numbers14,16
+395  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+395  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+395  [main] WARN  com.nttdata.main.App - price multiplication
+395  [main] INFO  com.nttdata.main.App - Reward is : 100
+395  [main] INFO  com.nttdata.main.App - winning number check
+395  [main] WARN  com.nttdata.main.App - the numbers do not match
+395  [main] WARN  com.nttdata.main.App - Reward is 100
+395  [main] INFO  com.nttdata.main.App - End of execution
+395  [main] INFO  com.nttdata.main.App - Start of execution
+395  [main] INFO  com.nttdata.main.App - thrown ball
+395  [main] WARN  com.nttdata.main.App - assigned numbers33,19
+395  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+395  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+395  [main] WARN  com.nttdata.main.App - price multiplication
+395  [main] INFO  com.nttdata.main.App - Reward is : 200
+395  [main] INFO  com.nttdata.main.App - winning number check
+395  [main] WARN  com.nttdata.main.App - the numbers do not match
+395  [main] WARN  com.nttdata.main.App - Reward is 200
+395  [main] INFO  com.nttdata.main.App - End of execution
+395  [main] INFO  com.nttdata.main.App - Start of execution
+395  [main] INFO  com.nttdata.main.App - thrown ball
+395  [main] WARN  com.nttdata.main.App - assigned numbers33,19
+395  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+395  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+395  [main] WARN  com.nttdata.main.App - price multiplication
+395  [main] INFO  com.nttdata.main.App - Reward is : 200
+395  [main] INFO  com.nttdata.main.App - winning number check
+395  [main] WARN  com.nttdata.main.App - the numbers do not match
+395  [main] WARN  com.nttdata.main.App - Reward is 200
+395  [main] INFO  com.nttdata.main.App - End of execution
+395  [main] INFO  com.nttdata.main.App - Start of execution
+395  [main] INFO  com.nttdata.main.App - thrown ball
+395  [main] WARN  com.nttdata.main.App - assigned numbers3,10
+395  [main] WARN  com.nttdata.main.App - priceMultiplier = 1
+395  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+395  [main] WARN  com.nttdata.main.App - price multiplication
+395  [main] INFO  com.nttdata.main.App - Reward is : 50
+395  [main] INFO  com.nttdata.main.App - winning number check
+395  [main] WARN  com.nttdata.main.App - the numbers do not match
+395  [main] WARN  com.nttdata.main.App - Reward is 50
+396  [main] INFO  com.nttdata.main.App - End of execution
+396  [main] INFO  com.nttdata.main.App - Start of execution
+396  [main] INFO  com.nttdata.main.App - thrown ball
+396  [main] WARN  com.nttdata.main.App - assigned numbers8,13
+396  [main] WARN  com.nttdata.main.App - priceMultiplier = 1
+396  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+396  [main] WARN  com.nttdata.main.App - price multiplication
+396  [main] INFO  com.nttdata.main.App - Reward is : 50
+396  [main] INFO  com.nttdata.main.App - winning number check
+396  [main] WARN  com.nttdata.main.App - the numbers do not match
+396  [main] WARN  com.nttdata.main.App - Reward is 50
+396  [main] INFO  com.nttdata.main.App - End of execution
+396  [main] INFO  com.nttdata.main.App - Start of execution
+396  [main] INFO  com.nttdata.main.App - thrown ball
+396  [main] WARN  com.nttdata.main.App - assigned numbers3,30
+396  [main] WARN  com.nttdata.main.App - priceMultiplier = 1
+396  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+396  [main] WARN  com.nttdata.main.App - price multiplication
+396  [main] INFO  com.nttdata.main.App - Reward is : 50
+396  [main] INFO  com.nttdata.main.App - winning number check
+396  [main] WARN  com.nttdata.main.App - the numbers do not match
+396  [main] WARN  com.nttdata.main.App - Reward is 50
+396  [main] INFO  com.nttdata.main.App - End of execution
+396  [main] INFO  com.nttdata.main.App - Start of execution
+396  [main] INFO  com.nttdata.main.App - thrown ball
+396  [main] WARN  com.nttdata.main.App - assigned numbers47,15
+396  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+396  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+396  [main] WARN  com.nttdata.main.App - price multiplication
+396  [main] INFO  com.nttdata.main.App - Reward is : 250
+396  [main] INFO  com.nttdata.main.App - winning number check
+396  [main] WARN  com.nttdata.main.App - the numbers do not match
+396  [main] WARN  com.nttdata.main.App - Reward is 250
+396  [main] INFO  com.nttdata.main.App - End of execution
+396  [main] INFO  com.nttdata.main.App - Start of execution
+396  [main] INFO  com.nttdata.main.App - thrown ball
+396  [main] WARN  com.nttdata.main.App - assigned numbers34,30
+396  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+396  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+396  [main] WARN  com.nttdata.main.App - price multiplication
+396  [main] INFO  com.nttdata.main.App - Reward is : 200
+396  [main] INFO  com.nttdata.main.App - winning number check
+396  [main] WARN  com.nttdata.main.App - the numbers do not match
+396  [main] WARN  com.nttdata.main.App - Reward is 200
+396  [main] INFO  com.nttdata.main.App - End of execution
+396  [main] INFO  com.nttdata.main.App - Start of execution
+396  [main] INFO  com.nttdata.main.App - thrown ball
+396  [main] WARN  com.nttdata.main.App - assigned numbers13,31
+396  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+396  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+396  [main] WARN  com.nttdata.main.App - price multiplication
+396  [main] INFO  com.nttdata.main.App - Reward is : 100
+396  [main] INFO  com.nttdata.main.App - winning number check
+396  [main] WARN  com.nttdata.main.App - the numbers do not match
+396  [main] WARN  com.nttdata.main.App - Reward is 100
+396  [main] INFO  com.nttdata.main.App - End of execution
+396  [main] INFO  com.nttdata.main.App - Start of execution
+396  [main] INFO  com.nttdata.main.App - thrown ball
+396  [main] WARN  com.nttdata.main.App - assigned numbers22,16
+396  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+396  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+396  [main] WARN  com.nttdata.main.App - price multiplication
+396  [main] INFO  com.nttdata.main.App - Reward is : 150
+396  [main] INFO  com.nttdata.main.App - winning number check
+396  [main] WARN  com.nttdata.main.App - the numbers do not match
+396  [main] WARN  com.nttdata.main.App - Reward is 150
+396  [main] INFO  com.nttdata.main.App - End of execution
+396  [main] INFO  com.nttdata.main.App - Start of execution
+396  [main] INFO  com.nttdata.main.App - thrown ball
+396  [main] WARN  com.nttdata.main.App - assigned numbers30,47
+396  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+396  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+396  [main] WARN  com.nttdata.main.App - price multiplication
+396  [main] INFO  com.nttdata.main.App - Reward is : 200
+396  [main] INFO  com.nttdata.main.App - winning number check
+396  [main] WARN  com.nttdata.main.App - the numbers do not match
+396  [main] WARN  com.nttdata.main.App - Reward is 200
+396  [main] INFO  com.nttdata.main.App - End of execution
+396  [main] INFO  com.nttdata.main.App - Start of execution
+396  [main] INFO  com.nttdata.main.App - thrown ball
+396  [main] WARN  com.nttdata.main.App - assigned numbers20,23
+396  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+396  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+396  [main] WARN  com.nttdata.main.App - price multiplication
+396  [main] INFO  com.nttdata.main.App - Reward is : 150
+396  [main] INFO  com.nttdata.main.App - winning number check
+396  [main] WARN  com.nttdata.main.App - the numbers do not match
+396  [main] WARN  com.nttdata.main.App - Reward is 150
+396  [main] INFO  com.nttdata.main.App - End of execution
+396  [main] INFO  com.nttdata.main.App - Start of execution
+396  [main] INFO  com.nttdata.main.App - thrown ball
+396  [main] WARN  com.nttdata.main.App - assigned numbers31,43
+396  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+396  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+396  [main] WARN  com.nttdata.main.App - price multiplication
+396  [main] INFO  com.nttdata.main.App - Reward is : 200
+396  [main] INFO  com.nttdata.main.App - winning number check
+396  [main] WARN  com.nttdata.main.App - the numbers do not match
+396  [main] WARN  com.nttdata.main.App - Reward is 200
+396  [main] INFO  com.nttdata.main.App - End of execution
+396  [main] INFO  com.nttdata.main.App - Start of execution
+396  [main] INFO  com.nttdata.main.App - thrown ball
+396  [main] WARN  com.nttdata.main.App - assigned numbers27,17
+396  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+396  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+396  [main] WARN  com.nttdata.main.App - price multiplication
+396  [main] INFO  com.nttdata.main.App - Reward is : 150
+396  [main] INFO  com.nttdata.main.App - winning number check
+396  [main] WARN  com.nttdata.main.App - the numbers do not match
+396  [main] WARN  com.nttdata.main.App - Reward is 150
+396  [main] INFO  com.nttdata.main.App - End of execution
+396  [main] INFO  com.nttdata.main.App - Start of execution
+396  [main] INFO  com.nttdata.main.App - thrown ball
+396  [main] WARN  com.nttdata.main.App - assigned numbers17,36
+396  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+396  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+396  [main] WARN  com.nttdata.main.App - price multiplication
+396  [main] INFO  com.nttdata.main.App - Reward is : 100
+396  [main] INFO  com.nttdata.main.App - winning number check
+396  [main] WARN  com.nttdata.main.App - the numbers do not match
+397  [main] WARN  com.nttdata.main.App - Reward is 100
+397  [main] INFO  com.nttdata.main.App - End of execution
+397  [main] INFO  com.nttdata.main.App - Start of execution
+397  [main] INFO  com.nttdata.main.App - thrown ball
+397  [main] WARN  com.nttdata.main.App - assigned numbers18,24
+397  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+397  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+397  [main] WARN  com.nttdata.main.App - price multiplication
+397  [main] INFO  com.nttdata.main.App - Reward is : 100
+397  [main] INFO  com.nttdata.main.App - winning number check
+397  [main] WARN  com.nttdata.main.App - the numbers do not match
+397  [main] WARN  com.nttdata.main.App - Reward is 100
+397  [main] INFO  com.nttdata.main.App - End of execution
+397  [main] INFO  com.nttdata.main.App - Start of execution
+397  [main] INFO  com.nttdata.main.App - thrown ball
+397  [main] WARN  com.nttdata.main.App - assigned numbers3,47
+397  [main] WARN  com.nttdata.main.App - priceMultiplier = 1
+397  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+397  [main] WARN  com.nttdata.main.App - price multiplication
+397  [main] INFO  com.nttdata.main.App - Reward is : 50
+397  [main] INFO  com.nttdata.main.App - winning number check
+397  [main] WARN  com.nttdata.main.App - the numbers do not match
+397  [main] WARN  com.nttdata.main.App - Reward is 50
+397  [main] INFO  com.nttdata.main.App - End of execution
+397  [main] INFO  com.nttdata.main.App - Start of execution
+397  [main] INFO  com.nttdata.main.App - thrown ball
+397  [main] WARN  com.nttdata.main.App - assigned numbers48,41
+397  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+397  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+397  [main] WARN  com.nttdata.main.App - price multiplication
+397  [main] INFO  com.nttdata.main.App - Reward is : 250
+397  [main] INFO  com.nttdata.main.App - winning number check
+397  [main] WARN  com.nttdata.main.App - the numbers do not match
+397  [main] WARN  com.nttdata.main.App - Reward is 250
+397  [main] INFO  com.nttdata.main.App - End of execution
+397  [main] INFO  com.nttdata.main.App - Start of execution
+397  [main] INFO  com.nttdata.main.App - thrown ball
+397  [main] WARN  com.nttdata.main.App - assigned numbers27,29
+397  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+397  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+397  [main] WARN  com.nttdata.main.App - price multiplication
+397  [main] INFO  com.nttdata.main.App - Reward is : 150
+397  [main] INFO  com.nttdata.main.App - winning number check
+397  [main] WARN  com.nttdata.main.App - the numbers do not match
+397  [main] WARN  com.nttdata.main.App - Reward is 150
+397  [main] INFO  com.nttdata.main.App - End of execution
+397  [main] INFO  com.nttdata.main.App - Start of execution
+397  [main] INFO  com.nttdata.main.App - thrown ball
+397  [main] WARN  com.nttdata.main.App - assigned numbers10,6
+397  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+397  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+397  [main] WARN  com.nttdata.main.App - price multiplication
+397  [main] INFO  com.nttdata.main.App - Reward is : 100
+397  [main] INFO  com.nttdata.main.App - winning number check
+397  [main] WARN  com.nttdata.main.App - the numbers do not match
+397  [main] WARN  com.nttdata.main.App - Reward is 100
+397  [main] INFO  com.nttdata.main.App - End of execution
+397  [main] INFO  com.nttdata.main.App - Start of execution
+397  [main] INFO  com.nttdata.main.App - thrown ball
+397  [main] WARN  com.nttdata.main.App - assigned numbers42,29
+397  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+397  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+397  [main] WARN  com.nttdata.main.App - price multiplication
+397  [main] INFO  com.nttdata.main.App - Reward is : 250
+397  [main] INFO  com.nttdata.main.App - winning number check
+397  [main] WARN  com.nttdata.main.App - the numbers do not match
+397  [main] WARN  com.nttdata.main.App - Reward is 250
+397  [main] INFO  com.nttdata.main.App - End of execution
+397  [main] INFO  com.nttdata.main.App - Start of execution
+397  [main] INFO  com.nttdata.main.App - thrown ball
+397  [main] WARN  com.nttdata.main.App - assigned numbers35,16
+397  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+397  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+397  [main] WARN  com.nttdata.main.App - price multiplication
+397  [main] INFO  com.nttdata.main.App - Reward is : 200
+397  [main] INFO  com.nttdata.main.App - winning number check
+397  [main] WARN  com.nttdata.main.App - the numbers do not match
+397  [main] WARN  com.nttdata.main.App - Reward is 200
+397  [main] INFO  com.nttdata.main.App - End of execution
+397  [main] INFO  com.nttdata.main.App - Start of execution
+397  [main] INFO  com.nttdata.main.App - thrown ball
+397  [main] WARN  com.nttdata.main.App - assigned numbers34,40
+397  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+397  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+397  [main] WARN  com.nttdata.main.App - price multiplication
+397  [main] INFO  com.nttdata.main.App - Reward is : 200
+397  [main] INFO  com.nttdata.main.App - winning number check
+397  [main] WARN  com.nttdata.main.App - the numbers do not match
+397  [main] WARN  com.nttdata.main.App - Reward is 200
+397  [main] INFO  com.nttdata.main.App - End of execution
+397  [main] INFO  com.nttdata.main.App - Start of execution
+397  [main] INFO  com.nttdata.main.App - thrown ball
+397  [main] WARN  com.nttdata.main.App - assigned numbers16,21
+397  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+397  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+397  [main] WARN  com.nttdata.main.App - price multiplication
+397  [main] INFO  com.nttdata.main.App - Reward is : 100
+397  [main] INFO  com.nttdata.main.App - winning number check
+397  [main] WARN  com.nttdata.main.App - the numbers do not match
+397  [main] WARN  com.nttdata.main.App - Reward is 100
+397  [main] INFO  com.nttdata.main.App - End of execution
+397  [main] INFO  com.nttdata.main.App - Start of execution
+397  [main] INFO  com.nttdata.main.App - thrown ball
+397  [main] WARN  com.nttdata.main.App - assigned numbers19,19
+397  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+397  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+397  [main] WARN  com.nttdata.main.App - price multiplication
+397  [main] INFO  com.nttdata.main.App - Reward is : 100
+397  [main] INFO  com.nttdata.main.App - winning number check
+397  [main] WARN  com.nttdata.main.App - the numbers match
+397  [main] WARN  com.nttdata.main.App - Reward is 200
+397  [main] INFO  com.nttdata.main.App - End of execution
+397  [main] INFO  com.nttdata.main.App - Start of execution
+398  [main] INFO  com.nttdata.main.App - thrown ball
+398  [main] WARN  com.nttdata.main.App - assigned numbers21,17
+398  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+398  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+398  [main] WARN  com.nttdata.main.App - price multiplication
+398  [main] INFO  com.nttdata.main.App - Reward is : 150
+398  [main] INFO  com.nttdata.main.App - winning number check
+398  [main] WARN  com.nttdata.main.App - the numbers do not match
+398  [main] WARN  com.nttdata.main.App - Reward is 150
+398  [main] INFO  com.nttdata.main.App - End of execution
+398  [main] INFO  com.nttdata.main.App - Start of execution
+398  [main] INFO  com.nttdata.main.App - thrown ball
+398  [main] WARN  com.nttdata.main.App - assigned numbers31,25
+398  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+398  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+398  [main] WARN  com.nttdata.main.App - price multiplication
+398  [main] INFO  com.nttdata.main.App - Reward is : 200
+398  [main] INFO  com.nttdata.main.App - winning number check
+398  [main] WARN  com.nttdata.main.App - the numbers do not match
+398  [main] WARN  com.nttdata.main.App - Reward is 200
+398  [main] INFO  com.nttdata.main.App - End of execution
+398  [main] INFO  com.nttdata.main.App - Start of execution
+398  [main] INFO  com.nttdata.main.App - thrown ball
+398  [main] WARN  com.nttdata.main.App - assigned numbers35,1
+398  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+398  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+398  [main] WARN  com.nttdata.main.App - price multiplication
+398  [main] INFO  com.nttdata.main.App - Reward is : 200
+398  [main] INFO  com.nttdata.main.App - winning number check
+398  [main] WARN  com.nttdata.main.App - the numbers do not match
+398  [main] WARN  com.nttdata.main.App - Reward is 200
+398  [main] INFO  com.nttdata.main.App - End of execution
+398  [main] INFO  com.nttdata.main.App - Start of execution
+398  [main] INFO  com.nttdata.main.App - thrown ball
+398  [main] WARN  com.nttdata.main.App - assigned numbers37,36
+398  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+398  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+398  [main] WARN  com.nttdata.main.App - price multiplication
+398  [main] INFO  com.nttdata.main.App - Reward is : 200
+398  [main] INFO  com.nttdata.main.App - winning number check
+398  [main] WARN  com.nttdata.main.App - the numbers do not match
+398  [main] WARN  com.nttdata.main.App - Reward is 200
+398  [main] INFO  com.nttdata.main.App - End of execution
+398  [main] INFO  com.nttdata.main.App - Start of execution
+398  [main] INFO  com.nttdata.main.App - thrown ball
+398  [main] WARN  com.nttdata.main.App - assigned numbers14,38
+398  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+398  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+398  [main] WARN  com.nttdata.main.App - price multiplication
+398  [main] INFO  com.nttdata.main.App - Reward is : 100
+398  [main] INFO  com.nttdata.main.App - winning number check
+398  [main] WARN  com.nttdata.main.App - the numbers do not match
+398  [main] WARN  com.nttdata.main.App - Reward is 100
+398  [main] INFO  com.nttdata.main.App - End of execution
+398  [main] INFO  com.nttdata.main.App - Start of execution
+398  [main] INFO  com.nttdata.main.App - thrown ball
+398  [main] WARN  com.nttdata.main.App - assigned numbers23,39
+398  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+398  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+398  [main] WARN  com.nttdata.main.App - price multiplication
+398  [main] INFO  com.nttdata.main.App - Reward is : 150
+398  [main] INFO  com.nttdata.main.App - winning number check
+398  [main] WARN  com.nttdata.main.App - the numbers do not match
+398  [main] WARN  com.nttdata.main.App - Reward is 150
+398  [main] INFO  com.nttdata.main.App - End of execution
+398  [main] INFO  com.nttdata.main.App - Start of execution
+398  [main] INFO  com.nttdata.main.App - thrown ball
+398  [main] WARN  com.nttdata.main.App - assigned numbers32,34
+398  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+398  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+398  [main] WARN  com.nttdata.main.App - price multiplication
+398  [main] INFO  com.nttdata.main.App - Reward is : 200
+398  [main] INFO  com.nttdata.main.App - winning number check
+398  [main] WARN  com.nttdata.main.App - the numbers do not match
+398  [main] WARN  com.nttdata.main.App - Reward is 200
+398  [main] INFO  com.nttdata.main.App - End of execution
+398  [main] INFO  com.nttdata.main.App - Start of execution
+398  [main] INFO  com.nttdata.main.App - thrown ball
+398  [main] WARN  com.nttdata.main.App - assigned numbers2,45
+398  [main] WARN  com.nttdata.main.App - priceMultiplier = 1
+398  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+398  [main] WARN  com.nttdata.main.App - price multiplication
+398  [main] INFO  com.nttdata.main.App - Reward is : 50
+398  [main] INFO  com.nttdata.main.App - winning number check
+398  [main] WARN  com.nttdata.main.App - the numbers do not match
+398  [main] WARN  com.nttdata.main.App - Reward is 50
+398  [main] INFO  com.nttdata.main.App - End of execution
+398  [main] INFO  com.nttdata.main.App - Start of execution
+398  [main] INFO  com.nttdata.main.App - thrown ball
+398  [main] WARN  com.nttdata.main.App - assigned numbers4,8
+399  [main] WARN  com.nttdata.main.App - priceMultiplier = 1
+399  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+399  [main] WARN  com.nttdata.main.App - price multiplication
+399  [main] INFO  com.nttdata.main.App - Reward is : 50
+399  [main] INFO  com.nttdata.main.App - winning number check
+399  [main] WARN  com.nttdata.main.App - the numbers do not match
+399  [main] WARN  com.nttdata.main.App - Reward is 50
+399  [main] INFO  com.nttdata.main.App - End of execution
+399  [main] INFO  com.nttdata.main.App - Start of execution
+399  [main] INFO  com.nttdata.main.App - thrown ball
+399  [main] WARN  com.nttdata.main.App - assigned numbers17,41
+399  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+399  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+399  [main] WARN  com.nttdata.main.App - price multiplication
+399  [main] INFO  com.nttdata.main.App - Reward is : 100
+399  [main] INFO  com.nttdata.main.App - winning number check
+399  [main] WARN  com.nttdata.main.App - the numbers do not match
+399  [main] WARN  com.nttdata.main.App - Reward is 100
+399  [main] INFO  com.nttdata.main.App - End of execution
+399  [main] INFO  com.nttdata.main.App - Start of execution
+399  [main] INFO  com.nttdata.main.App - thrown ball
+399  [main] WARN  com.nttdata.main.App - assigned numbers38,13
+399  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+399  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+399  [main] WARN  com.nttdata.main.App - price multiplication
+399  [main] INFO  com.nttdata.main.App - Reward is : 200
+399  [main] INFO  com.nttdata.main.App - winning number check
+399  [main] WARN  com.nttdata.main.App - the numbers do not match
+399  [main] WARN  com.nttdata.main.App - Reward is 200
+399  [main] INFO  com.nttdata.main.App - End of execution
+399  [main] INFO  com.nttdata.main.App - Start of execution
+400  [main] INFO  com.nttdata.main.App - thrown ball
+400  [main] WARN  com.nttdata.main.App - assigned numbers23,43
+400  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+400  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+400  [main] WARN  com.nttdata.main.App - price multiplication
+400  [main] INFO  com.nttdata.main.App - Reward is : 150
+400  [main] INFO  com.nttdata.main.App - winning number check
+400  [main] WARN  com.nttdata.main.App - the numbers do not match
+400  [main] WARN  com.nttdata.main.App - Reward is 150
+400  [main] INFO  com.nttdata.main.App - End of execution
+400  [main] INFO  com.nttdata.main.App - Start of execution
+400  [main] INFO  com.nttdata.main.App - thrown ball
+400  [main] WARN  com.nttdata.main.App - assigned numbers33,7
+400  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+400  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+400  [main] WARN  com.nttdata.main.App - price multiplication
+400  [main] INFO  com.nttdata.main.App - Reward is : 200
+400  [main] INFO  com.nttdata.main.App - winning number check
+400  [main] WARN  com.nttdata.main.App - the numbers do not match
+400  [main] WARN  com.nttdata.main.App - Reward is 200
+400  [main] INFO  com.nttdata.main.App - End of execution
+400  [main] INFO  com.nttdata.main.App - Start of execution
+400  [main] INFO  com.nttdata.main.App - thrown ball
+400  [main] WARN  com.nttdata.main.App - assigned numbers23,31
+400  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+400  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+400  [main] WARN  com.nttdata.main.App - price multiplication
+400  [main] INFO  com.nttdata.main.App - Reward is : 150
+400  [main] INFO  com.nttdata.main.App - winning number check
+400  [main] WARN  com.nttdata.main.App - the numbers do not match
+400  [main] WARN  com.nttdata.main.App - Reward is 150
+400  [main] INFO  com.nttdata.main.App - End of execution
+400  [main] INFO  com.nttdata.main.App - Start of execution
+400  [main] INFO  com.nttdata.main.App - thrown ball
+400  [main] WARN  com.nttdata.main.App - assigned numbers38,14
+400  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+400  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+400  [main] WARN  com.nttdata.main.App - price multiplication
+400  [main] INFO  com.nttdata.main.App - Reward is : 200
+400  [main] INFO  com.nttdata.main.App - winning number check
+400  [main] WARN  com.nttdata.main.App - the numbers do not match
+400  [main] WARN  com.nttdata.main.App - Reward is 200
+400  [main] INFO  com.nttdata.main.App - End of execution
+400  [main] INFO  com.nttdata.main.App - Start of execution
+400  [main] INFO  com.nttdata.main.App - thrown ball
+400  [main] WARN  com.nttdata.main.App - assigned numbers11,6
+400  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+400  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+400  [main] WARN  com.nttdata.main.App - price multiplication
+400  [main] INFO  com.nttdata.main.App - Reward is : 100
+400  [main] INFO  com.nttdata.main.App - winning number check
+400  [main] WARN  com.nttdata.main.App - the numbers do not match
+400  [main] WARN  com.nttdata.main.App - Reward is 100
+400  [main] INFO  com.nttdata.main.App - End of execution
+400  [main] INFO  com.nttdata.main.App - Start of execution
+400  [main] INFO  com.nttdata.main.App - thrown ball
+400  [main] WARN  com.nttdata.main.App - assigned numbers25,48
+400  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+400  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+400  [main] WARN  com.nttdata.main.App - price multiplication
+400  [main] INFO  com.nttdata.main.App - Reward is : 150
+400  [main] INFO  com.nttdata.main.App - winning number check
+400  [main] WARN  com.nttdata.main.App - the numbers do not match
+400  [main] WARN  com.nttdata.main.App - Reward is 150
+400  [main] INFO  com.nttdata.main.App - End of execution
+400  [main] INFO  com.nttdata.main.App - Start of execution
+400  [main] INFO  com.nttdata.main.App - thrown ball
+400  [main] WARN  com.nttdata.main.App - assigned numbers37,39
+400  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+400  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+400  [main] WARN  com.nttdata.main.App - price multiplication
+400  [main] INFO  com.nttdata.main.App - Reward is : 200
+400  [main] INFO  com.nttdata.main.App - winning number check
+400  [main] WARN  com.nttdata.main.App - the numbers do not match
+401  [main] WARN  com.nttdata.main.App - Reward is 200
+401  [main] INFO  com.nttdata.main.App - End of execution
+401  [main] INFO  com.nttdata.main.App - Start of execution
+401  [main] INFO  com.nttdata.main.App - thrown ball
+401  [main] WARN  com.nttdata.main.App - assigned numbers28,35
+401  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+401  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+401  [main] WARN  com.nttdata.main.App - price multiplication
+401  [main] INFO  com.nttdata.main.App - Reward is : 150
+401  [main] INFO  com.nttdata.main.App - winning number check
+401  [main] WARN  com.nttdata.main.App - the numbers do not match
+401  [main] WARN  com.nttdata.main.App - Reward is 150
+401  [main] INFO  com.nttdata.main.App - End of execution
+401  [main] INFO  com.nttdata.main.App - Start of execution
+401  [main] INFO  com.nttdata.main.App - thrown ball
+401  [main] WARN  com.nttdata.main.App - assigned numbers50,42
+401  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+401  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+401  [main] WARN  com.nttdata.main.App - price multiplication
+401  [main] INFO  com.nttdata.main.App - Reward is : 250
+401  [main] INFO  com.nttdata.main.App - winning number check
+401  [main] WARN  com.nttdata.main.App - the numbers do not match
+401  [main] WARN  com.nttdata.main.App - Reward is 250
+401  [main] INFO  com.nttdata.main.App - End of execution
+401  [main] INFO  com.nttdata.main.App - Start of execution
+401  [main] INFO  com.nttdata.main.App - thrown ball
+401  [main] WARN  com.nttdata.main.App - assigned numbers31,41
+401  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+401  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+401  [main] WARN  com.nttdata.main.App - price multiplication
+401  [main] INFO  com.nttdata.main.App - Reward is : 200
+401  [main] INFO  com.nttdata.main.App - winning number check
+401  [main] WARN  com.nttdata.main.App - the numbers do not match
+401  [main] WARN  com.nttdata.main.App - Reward is 200
+401  [main] INFO  com.nttdata.main.App - End of execution
+401  [main] INFO  com.nttdata.main.App - Start of execution
+401  [main] INFO  com.nttdata.main.App - thrown ball
+401  [main] WARN  com.nttdata.main.App - assigned numbers37,46
+401  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+401  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+401  [main] WARN  com.nttdata.main.App - price multiplication
+401  [main] INFO  com.nttdata.main.App - Reward is : 200
+401  [main] INFO  com.nttdata.main.App - winning number check
+401  [main] WARN  com.nttdata.main.App - the numbers do not match
+401  [main] WARN  com.nttdata.main.App - Reward is 200
+401  [main] INFO  com.nttdata.main.App - End of execution
+401  [main] INFO  com.nttdata.main.App - Start of execution
+401  [main] INFO  com.nttdata.main.App - thrown ball
+401  [main] WARN  com.nttdata.main.App - assigned numbers35,43
+401  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+401  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+401  [main] WARN  com.nttdata.main.App - price multiplication
+401  [main] INFO  com.nttdata.main.App - Reward is : 200
+401  [main] INFO  com.nttdata.main.App - winning number check
+401  [main] WARN  com.nttdata.main.App - the numbers do not match
+401  [main] WARN  com.nttdata.main.App - Reward is 200
+401  [main] INFO  com.nttdata.main.App - End of execution
+401  [main] INFO  com.nttdata.main.App - Start of execution
+401  [main] INFO  com.nttdata.main.App - thrown ball
+401  [main] WARN  com.nttdata.main.App - assigned numbers18,8
+401  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+401  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+401  [main] WARN  com.nttdata.main.App - price multiplication
+401  [main] INFO  com.nttdata.main.App - Reward is : 100
+401  [main] INFO  com.nttdata.main.App - winning number check
+401  [main] WARN  com.nttdata.main.App - the numbers do not match
+401  [main] WARN  com.nttdata.main.App - Reward is 100
+401  [main] INFO  com.nttdata.main.App - End of execution
+401  [main] INFO  com.nttdata.main.App - Start of execution
+401  [main] INFO  com.nttdata.main.App - thrown ball
+401  [main] WARN  com.nttdata.main.App - assigned numbers20,25
+401  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+401  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+401  [main] WARN  com.nttdata.main.App - price multiplication
+401  [main] INFO  com.nttdata.main.App - Reward is : 150
+401  [main] INFO  com.nttdata.main.App - winning number check
+401  [main] WARN  com.nttdata.main.App - the numbers do not match
+401  [main] WARN  com.nttdata.main.App - Reward is 150
+401  [main] INFO  com.nttdata.main.App - End of execution
+401  [main] INFO  com.nttdata.main.App - Start of execution
+401  [main] INFO  com.nttdata.main.App - thrown ball
+401  [main] WARN  com.nttdata.main.App - assigned numbers17,1
+401  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+401  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+401  [main] WARN  com.nttdata.main.App - price multiplication
+401  [main] INFO  com.nttdata.main.App - Reward is : 100
+401  [main] INFO  com.nttdata.main.App - winning number check
+401  [main] WARN  com.nttdata.main.App - the numbers do not match
+401  [main] WARN  com.nttdata.main.App - Reward is 100
+402  [main] INFO  com.nttdata.main.App - End of execution
+402  [main] INFO  com.nttdata.main.App - Start of execution
+402  [main] INFO  com.nttdata.main.App - thrown ball
+402  [main] WARN  com.nttdata.main.App - assigned numbers15,15
+402  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+402  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+402  [main] WARN  com.nttdata.main.App - price multiplication
+402  [main] INFO  com.nttdata.main.App - Reward is : 100
+402  [main] INFO  com.nttdata.main.App - winning number check
+402  [main] WARN  com.nttdata.main.App - the numbers match
+402  [main] WARN  com.nttdata.main.App - Reward is 200
+402  [main] INFO  com.nttdata.main.App - End of execution
+402  [main] INFO  com.nttdata.main.App - Start of execution
+402  [main] INFO  com.nttdata.main.App - thrown ball
+402  [main] WARN  com.nttdata.main.App - assigned numbers30,28
+402  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+402  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+402  [main] WARN  com.nttdata.main.App - price multiplication
+402  [main] INFO  com.nttdata.main.App - Reward is : 200
+402  [main] INFO  com.nttdata.main.App - winning number check
+402  [main] WARN  com.nttdata.main.App - the numbers do not match
+402  [main] WARN  com.nttdata.main.App - Reward is 200
+402  [main] INFO  com.nttdata.main.App - End of execution
+402  [main] INFO  com.nttdata.main.App - Start of execution
+402  [main] INFO  com.nttdata.main.App - thrown ball
+402  [main] WARN  com.nttdata.main.App - assigned numbers43,3
+402  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+402  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+402  [main] WARN  com.nttdata.main.App - price multiplication
+402  [main] INFO  com.nttdata.main.App - Reward is : 250
+402  [main] INFO  com.nttdata.main.App - winning number check
+402  [main] WARN  com.nttdata.main.App - the numbers do not match
+402  [main] WARN  com.nttdata.main.App - Reward is 250
+402  [main] INFO  com.nttdata.main.App - End of execution
+402  [main] INFO  com.nttdata.main.App - Start of execution
+402  [main] INFO  com.nttdata.main.App - thrown ball
+402  [main] WARN  com.nttdata.main.App - assigned numbers1,9
+402  [main] WARN  com.nttdata.main.App - priceMultiplier = 1
+402  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+402  [main] WARN  com.nttdata.main.App - price multiplication
+402  [main] INFO  com.nttdata.main.App - Reward is : 50
+402  [main] INFO  com.nttdata.main.App - winning number check
+402  [main] WARN  com.nttdata.main.App - the numbers do not match
+402  [main] WARN  com.nttdata.main.App - Reward is 50
+402  [main] INFO  com.nttdata.main.App - End of execution
+402  [main] INFO  com.nttdata.main.App - Start of execution
+402  [main] INFO  com.nttdata.main.App - thrown ball
+402  [main] WARN  com.nttdata.main.App - assigned numbers29,26
+402  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+402  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+402  [main] WARN  com.nttdata.main.App - price multiplication
+402  [main] INFO  com.nttdata.main.App - Reward is : 150
+402  [main] INFO  com.nttdata.main.App - winning number check
+402  [main] WARN  com.nttdata.main.App - the numbers do not match
+402  [main] WARN  com.nttdata.main.App - Reward is 150
+402  [main] INFO  com.nttdata.main.App - End of execution
+402  [main] INFO  com.nttdata.main.App - Start of execution
+402  [main] INFO  com.nttdata.main.App - thrown ball
+403  [main] WARN  com.nttdata.main.App - assigned numbers27,35
+403  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+403  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+403  [main] WARN  com.nttdata.main.App - price multiplication
+403  [main] INFO  com.nttdata.main.App - Reward is : 150
+403  [main] INFO  com.nttdata.main.App - winning number check
+403  [main] WARN  com.nttdata.main.App - the numbers do not match
+403  [main] WARN  com.nttdata.main.App - Reward is 150
+403  [main] INFO  com.nttdata.main.App - End of execution
+403  [main] INFO  com.nttdata.main.App - Start of execution
+403  [main] INFO  com.nttdata.main.App - thrown ball
+403  [main] WARN  com.nttdata.main.App - assigned numbers45,29
+403  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+403  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+403  [main] WARN  com.nttdata.main.App - price multiplication
+403  [main] INFO  com.nttdata.main.App - Reward is : 250
+403  [main] INFO  com.nttdata.main.App - winning number check
+403  [main] WARN  com.nttdata.main.App - the numbers do not match
+403  [main] WARN  com.nttdata.main.App - Reward is 250
+403  [main] INFO  com.nttdata.main.App - End of execution
+403  [main] INFO  com.nttdata.main.App - Start of execution
+403  [main] INFO  com.nttdata.main.App - thrown ball
+403  [main] WARN  com.nttdata.main.App - assigned numbers33,18
+403  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+403  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+403  [main] WARN  com.nttdata.main.App - price multiplication
+403  [main] INFO  com.nttdata.main.App - Reward is : 200
+403  [main] INFO  com.nttdata.main.App - winning number check
+403  [main] WARN  com.nttdata.main.App - the numbers do not match
+404  [main] WARN  com.nttdata.main.App - Reward is 200
+404  [main] INFO  com.nttdata.main.App - End of execution
+404  [main] INFO  com.nttdata.main.App - Start of execution
+404  [main] INFO  com.nttdata.main.App - thrown ball
+404  [main] WARN  com.nttdata.main.App - assigned numbers7,8
+404  [main] WARN  com.nttdata.main.App - priceMultiplier = 1
+404  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+404  [main] WARN  com.nttdata.main.App - price multiplication
+404  [main] INFO  com.nttdata.main.App - Reward is : 50
+404  [main] INFO  com.nttdata.main.App - winning number check
+404  [main] WARN  com.nttdata.main.App - the numbers do not match
+404  [main] WARN  com.nttdata.main.App - Reward is 50
+404  [main] INFO  com.nttdata.main.App - End of execution
+404  [main] INFO  com.nttdata.main.App - Start of execution
+404  [main] INFO  com.nttdata.main.App - thrown ball
+404  [main] WARN  com.nttdata.main.App - assigned numbers47,23
+404  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+404  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+404  [main] WARN  com.nttdata.main.App - price multiplication
+404  [main] INFO  com.nttdata.main.App - Reward is : 250
+404  [main] INFO  com.nttdata.main.App - winning number check
+404  [main] WARN  com.nttdata.main.App - the numbers do not match
+404  [main] WARN  com.nttdata.main.App - Reward is 250
+404  [main] INFO  com.nttdata.main.App - End of execution
+404  [main] INFO  com.nttdata.main.App - Start of execution
+404  [main] INFO  com.nttdata.main.App - thrown ball
+404  [main] WARN  com.nttdata.main.App - assigned numbers32,46
+404  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+404  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+404  [main] WARN  com.nttdata.main.App - price multiplication
+404  [main] INFO  com.nttdata.main.App - Reward is : 200
+404  [main] INFO  com.nttdata.main.App - winning number check
+404  [main] WARN  com.nttdata.main.App - the numbers do not match
+404  [main] WARN  com.nttdata.main.App - Reward is 200
+404  [main] INFO  com.nttdata.main.App - End of execution
+404  [main] INFO  com.nttdata.main.App - Start of execution
+404  [main] INFO  com.nttdata.main.App - thrown ball
+404  [main] WARN  com.nttdata.main.App - assigned numbers29,27
+404  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+404  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+404  [main] WARN  com.nttdata.main.App - price multiplication
+404  [main] INFO  com.nttdata.main.App - Reward is : 150
+404  [main] INFO  com.nttdata.main.App - winning number check
+404  [main] WARN  com.nttdata.main.App - the numbers do not match
+404  [main] WARN  com.nttdata.main.App - Reward is 150
+404  [main] INFO  com.nttdata.main.App - End of execution
+404  [main] INFO  com.nttdata.main.App - Start of execution
+404  [main] INFO  com.nttdata.main.App - thrown ball
+404  [main] WARN  com.nttdata.main.App - assigned numbers44,25
+404  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+404  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+404  [main] WARN  com.nttdata.main.App - price multiplication
+404  [main] INFO  com.nttdata.main.App - Reward is : 250
+404  [main] INFO  com.nttdata.main.App - winning number check
+404  [main] WARN  com.nttdata.main.App - the numbers do not match
+404  [main] WARN  com.nttdata.main.App - Reward is 250
+404  [main] INFO  com.nttdata.main.App - End of execution
+404  [main] INFO  com.nttdata.main.App - Start of execution
+404  [main] INFO  com.nttdata.main.App - thrown ball
+404  [main] WARN  com.nttdata.main.App - assigned numbers13,1
+404  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+404  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+404  [main] WARN  com.nttdata.main.App - price multiplication
+404  [main] INFO  com.nttdata.main.App - Reward is : 100
+404  [main] INFO  com.nttdata.main.App - winning number check
+404  [main] WARN  com.nttdata.main.App - the numbers do not match
+404  [main] WARN  com.nttdata.main.App - Reward is 100
+404  [main] INFO  com.nttdata.main.App - End of execution
+404  [main] INFO  com.nttdata.main.App - Start of execution
+404  [main] INFO  com.nttdata.main.App - thrown ball
+404  [main] WARN  com.nttdata.main.App - assigned numbers17,45
+404  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+404  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+404  [main] WARN  com.nttdata.main.App - price multiplication
+404  [main] INFO  com.nttdata.main.App - Reward is : 100
+404  [main] INFO  com.nttdata.main.App - winning number check
+404  [main] WARN  com.nttdata.main.App - the numbers do not match
+404  [main] WARN  com.nttdata.main.App - Reward is 100
+404  [main] INFO  com.nttdata.main.App - End of execution
+404  [main] INFO  com.nttdata.main.App - Start of execution
+404  [main] INFO  com.nttdata.main.App - thrown ball
+404  [main] WARN  com.nttdata.main.App - assigned numbers39,29
+404  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+404  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+404  [main] WARN  com.nttdata.main.App - price multiplication
+404  [main] INFO  com.nttdata.main.App - Reward is : 200
+405  [main] INFO  com.nttdata.main.App - winning number check
+405  [main] WARN  com.nttdata.main.App - the numbers do not match
+405  [main] WARN  com.nttdata.main.App - Reward is 200
+405  [main] INFO  com.nttdata.main.App - End of execution
+405  [main] INFO  com.nttdata.main.App - Start of execution
+405  [main] INFO  com.nttdata.main.App - thrown ball
+405  [main] WARN  com.nttdata.main.App - assigned numbers41,42
+405  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+405  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+405  [main] WARN  com.nttdata.main.App - price multiplication
+405  [main] INFO  com.nttdata.main.App - Reward is : 250
+405  [main] INFO  com.nttdata.main.App - winning number check
+405  [main] WARN  com.nttdata.main.App - the numbers do not match
+405  [main] WARN  com.nttdata.main.App - Reward is 250
+405  [main] INFO  com.nttdata.main.App - End of execution
+405  [main] INFO  com.nttdata.main.App - Start of execution
+405  [main] INFO  com.nttdata.main.App - thrown ball
+405  [main] WARN  com.nttdata.main.App - assigned numbers12,29
+405  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+405  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+405  [main] WARN  com.nttdata.main.App - price multiplication
+405  [main] INFO  com.nttdata.main.App - Reward is : 100
+405  [main] INFO  com.nttdata.main.App - winning number check
+405  [main] WARN  com.nttdata.main.App - the numbers do not match
+405  [main] WARN  com.nttdata.main.App - Reward is 100
+405  [main] INFO  com.nttdata.main.App - End of execution
+405  [main] INFO  com.nttdata.main.App - Start of execution
+405  [main] INFO  com.nttdata.main.App - thrown ball
+405  [main] WARN  com.nttdata.main.App - assigned numbers5,25
+405  [main] WARN  com.nttdata.main.App - priceMultiplier = 1
+405  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+405  [main] WARN  com.nttdata.main.App - price multiplication
+405  [main] INFO  com.nttdata.main.App - Reward is : 50
+405  [main] INFO  com.nttdata.main.App - winning number check
+405  [main] WARN  com.nttdata.main.App - the numbers do not match
+405  [main] WARN  com.nttdata.main.App - Reward is 50
+405  [main] INFO  com.nttdata.main.App - End of execution
+405  [main] INFO  com.nttdata.main.App - Start of execution
+405  [main] INFO  com.nttdata.main.App - thrown ball
+405  [main] WARN  com.nttdata.main.App - assigned numbers32,47
+405  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+405  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+405  [main] WARN  com.nttdata.main.App - price multiplication
+405  [main] INFO  com.nttdata.main.App - Reward is : 200
+405  [main] INFO  com.nttdata.main.App - winning number check
+405  [main] WARN  com.nttdata.main.App - the numbers do not match
+405  [main] WARN  com.nttdata.main.App - Reward is 200
+405  [main] INFO  com.nttdata.main.App - End of execution
+405  [main] INFO  com.nttdata.main.App - Start of execution
+405  [main] INFO  com.nttdata.main.App - thrown ball
+405  [main] WARN  com.nttdata.main.App - assigned numbers47,40
+405  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+405  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+405  [main] WARN  com.nttdata.main.App - price multiplication
+405  [main] INFO  com.nttdata.main.App - Reward is : 250
+405  [main] INFO  com.nttdata.main.App - winning number check
+405  [main] WARN  com.nttdata.main.App - the numbers do not match
+405  [main] WARN  com.nttdata.main.App - Reward is 250
+405  [main] INFO  com.nttdata.main.App - End of execution
+405  [main] INFO  com.nttdata.main.App - Start of execution
+405  [main] INFO  com.nttdata.main.App - thrown ball
+405  [main] WARN  com.nttdata.main.App - assigned numbers29,16
+405  [main] WARN  com.nttdata.main.App - priceMultiplier = 3
+405  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+405  [main] WARN  com.nttdata.main.App - price multiplication
+409  [main] INFO  com.nttdata.main.App - Reward is : 150
+409  [main] INFO  com.nttdata.main.App - winning number check
+409  [main] WARN  com.nttdata.main.App - the numbers do not match
+410  [main] WARN  com.nttdata.main.App - Reward is 150
+410  [main] INFO  com.nttdata.main.App - End of execution
+410  [main] INFO  com.nttdata.main.App - Start of execution
+410  [main] INFO  com.nttdata.main.App - thrown ball
+410  [main] WARN  com.nttdata.main.App - assigned numbers41,9
+410  [main] WARN  com.nttdata.main.App - priceMultiplier = 5
+410  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+410  [main] WARN  com.nttdata.main.App - price multiplication
+410  [main] INFO  com.nttdata.main.App - Reward is : 250
+410  [main] INFO  com.nttdata.main.App - winning number check
+410  [main] WARN  com.nttdata.main.App - the numbers do not match
+410  [main] WARN  com.nttdata.main.App - Reward is 250
+410  [main] INFO  com.nttdata.main.App - End of execution
+410  [main] INFO  com.nttdata.main.App - Start of execution
+410  [main] INFO  com.nttdata.main.App - thrown ball
+410  [main] WARN  com.nttdata.main.App - assigned numbers37,36
+410  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+410  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+410  [main] WARN  com.nttdata.main.App - price multiplication
+410  [main] INFO  com.nttdata.main.App - Reward is : 200
+410  [main] INFO  com.nttdata.main.App - winning number check
+410  [main] WARN  com.nttdata.main.App - the numbers do not match
+410  [main] WARN  com.nttdata.main.App - Reward is 200
+410  [main] INFO  com.nttdata.main.App - End of execution
+410  [main] INFO  com.nttdata.main.App - Start of execution
+410  [main] INFO  com.nttdata.main.App - thrown ball
+410  [main] WARN  com.nttdata.main.App - assigned numbers7,22
+410  [main] WARN  com.nttdata.main.App - priceMultiplier = 1
+410  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+410  [main] WARN  com.nttdata.main.App - price multiplication
+410  [main] INFO  com.nttdata.main.App - Reward is : 50
+410  [main] INFO  com.nttdata.main.App - winning number check
+410  [main] WARN  com.nttdata.main.App - the numbers do not match
+410  [main] WARN  com.nttdata.main.App - Reward is 50
+410  [main] INFO  com.nttdata.main.App - End of execution
+410  [main] INFO  com.nttdata.main.App - Start of execution
+410  [main] INFO  com.nttdata.main.App - thrown ball
+410  [main] WARN  com.nttdata.main.App - assigned numbers10,14
+410  [main] WARN  com.nttdata.main.App - priceMultiplier = 2
+410  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+410  [main] WARN  com.nttdata.main.App - price multiplication
+410  [main] INFO  com.nttdata.main.App - Reward is : 100
+410  [main] INFO  com.nttdata.main.App - winning number check
+410  [main] WARN  com.nttdata.main.App - the numbers do not match
+410  [main] WARN  com.nttdata.main.App - Reward is 100
+410  [main] INFO  com.nttdata.main.App - End of execution
+410  [main] INFO  com.nttdata.main.App - Start of execution
+410  [main] INFO  com.nttdata.main.App - thrown ball
+410  [main] WARN  com.nttdata.main.App - assigned numbers36,24
+410  [main] WARN  com.nttdata.main.App - priceMultiplier = 4
+411  [main] INFO  com.nttdata.main.App - End of priceMultiplier
+411  [main] WARN  com.nttdata.main.App - price multiplication
+411  [main] INFO  com.nttdata.main.App - Reward is : 200
+411  [main] INFO  com.nttdata.main.App - winning number check
+411  [main] WARN  com.nttdata.main.App - the numbers do not match
+411  [main] WARN  com.nttdata.main.App - Reward is 200
+411  [main] INFO  com.nttdata.main.App - End of execution

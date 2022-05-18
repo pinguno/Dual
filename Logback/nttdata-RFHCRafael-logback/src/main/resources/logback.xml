@@ -1,0 +1,44 @@
+<configuration>
+
+	<!-- Appender -->
+	<appender name="fileAppenderRAFA"
+		class = "ch.qos.logback.core.rolling.RollingFileAppender">
+		
+		<!-- File -->
+		<file>C://Users//Pinguno//Desktop//logRFHCRafael17_05_2022.log</file>
+		
+		
+		<!-- Particionar el fichero -->
+		<rollingPolicy
+			class="ch.qos.logback.core.rolling.FixedWindowRollingPolicy">
+			<fileNamePattern>C://Users//Pinguno//Desktop//Fich.%i.logDual.zip</fileNamePattern>
+			
+			
+			<!-- Cantidad de ficheros -->
+			<minIndex>1</minIndex>
+			<maxIndex>3</maxIndex>
+		
+		</rollingPolicy>
+		<!-- Peso del fichero -->
+		
+		<triggeringPolicy class ="ch.qos.logback.core.rolling.SizeBasedTriggeringPolicy">
+	      <maxFileSize>50KB</maxFileSize>
+	    </triggeringPolicy>
+		
+	
+		
+		<!-- Formato de salida de la traza -->
+		<encoder>
+			<pattern>%-4relative [%thread] %-5level %logger{32} - %msg%n</pattern>
+		</encoder>
+	
+	
+	
+	</appender>
+	
+	<!-- ROOT LOGGER -->
+		<root level="debug">
+			<appender-ref ref="fileAppenderRAFA" />
+		</root>
+
+</configuration>
